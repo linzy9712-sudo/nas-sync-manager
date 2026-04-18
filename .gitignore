@@ -1,1 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+.env
+.env.local
+
+# IDE
 .idea/
+.vscode/
+
+# Docker
+*.log
+data/
+
+# 系统
+.DS_Store
+Thumbs.db
